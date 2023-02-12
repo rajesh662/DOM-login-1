@@ -1,0 +1,19 @@
+
+
+
+.login-input{
+    padding: 20px 10px;
+}
+.login-p{
+    font-size: 14px;
+}
+
+.btn-warning{
+    
+    color:white !important;
+    font-weight: 600 !important;
+}
+a{
+    text-decoration: none !important;
+    color: #ffc107 !important;
+}
